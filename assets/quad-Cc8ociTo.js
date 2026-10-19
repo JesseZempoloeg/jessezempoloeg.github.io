@@ -1,4 +1,4 @@
-import{a as e,c as t,f as n,m as r,p as i,r as a,s as o}from"./index-CjBclZD-.js";var s=7,c=6,l=1,u=2;function d(d){d.innerHTML=`
+import{a as e,c as t,f as n,m as r,p as i,r as a,s as o}from"./main-CB5B7x6h.js";var s=7,c=6,l=1,u=2;function d(d){d.innerHTML=`
     <div class="hud">
       <div class="hud-group">
         <div class="hud-item"><span class="hud-label">Jij</span><span class="hud-value" data-wins>0</span></div>
