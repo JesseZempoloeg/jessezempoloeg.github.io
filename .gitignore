@@ -1,0 +1,15 @@
+node_modules/
+dist/
+
+# lokale dev-server
+dev-*.log
+dev-*.pid
+
+# gegenereerde screenshots en tijdelijke bestanden
+artifacts/
+screenshots/
+
+.DS_Store
+*.local
+.env
+.env.*

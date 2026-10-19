@@ -1,0 +1,17 @@
+{
+  "name": "NOVA ARCADE — games in je browser",
+  "short_name": "NOVA",
+  "description": "Tientallen games die direct in je browser draaien, gemaakt door Jesse Zempoloeg.",
+  "lang": "nl",
+  "dir": "ltr",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#05060a",
+  "theme_color": "#05060a",
+  "icons": [
+    { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
