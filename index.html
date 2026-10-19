@@ -50,9 +50,9 @@
       href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700;900&family=Inter:wght@300;400;500;600&display=swap"
       rel="stylesheet"
     />
-    <script type="module" crossorigin src="/assets/index-CprVUJXG.js"></script>
+    <script type="module" crossorigin src="/assets/index-D07Wxaxr.js"></script>
     <link rel="modulepreload" crossorigin href="/assets/three.module-a5-T9_Em.js">
-    <link rel="stylesheet" crossorigin href="/assets/index-Dxwh7YJ9.css">
+    <link rel="stylesheet" crossorigin href="/assets/index-B6iZcLjV.css">
   </head>
   <body>
     <canvas id="hero-canvas" aria-hidden="true"></canvas>
@@ -88,6 +88,23 @@
         <div class="scroll-hint reveal" style="--delay: 1.6s" aria-hidden="true">
           <span>SCROLL</span>
           <span class="scroll-line"></span>
+        </div>
+      </section>
+
+      <section class="daily" id="daily" aria-label="Uitdaging van vandaag">
+        <div class="daily-inner">
+          <div class="daily-copy">
+            <p class="eyebrow" data-reveal>UITDAGING VAN VANDAAG</p>
+            <h2 data-reveal style="--i: 1">Speel vandaag mee</h2>
+            <p class="daily-text" data-reveal style="--i: 2">
+              Elke dag kiest Nova Arcade één game voor iedereen. Vandaag staat <strong id="daily-name">—</strong> klaar: speel hem en houd je reeks in leven.
+            </p>
+            <div class="daily-actions reveal" style="--delay: 0.35s">
+              <button class="btn btn-solid" id="daily-play" type="button">SPEEL DE UITDAGING</button>
+              <span class="daily-state" id="daily-state"></span>
+            </div>
+          </div>
+          <div class="daily-card" id="daily-card"></div>
         </div>
       </section>
 

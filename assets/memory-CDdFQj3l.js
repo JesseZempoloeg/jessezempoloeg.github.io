@@ -1,4 +1,4 @@
-import{a as e,c as t,f as n,i as r,m as i,r as a}from"./index-CprVUJXG.js";var o=[`✦`,`✧`,`★`,`☾`,`☉`,`♄`,`♃`,`♀`];function s(e){let t=[...e];for(let e=t.length-1;e>0;e--){let n=Math.floor(Math.random()*(e+1));[t[e],t[n]]=[t[n],t[e]]}return t}function c(c){c.innerHTML=`
+import{a as e,c as t,f as n,i as r,m as i,r as a}from"./index-D07Wxaxr.js";var o=[`✦`,`✧`,`★`,`☾`,`☉`,`♄`,`♃`,`♀`];function s(e){let t=[...e];for(let e=t.length-1;e>0;e--){let n=Math.floor(Math.random()*(e+1));[t[e],t[n]]=[t[n],t[e]]}return t}function c(c){c.innerHTML=`
     <div class="hud">
       <div class="hud-group">
         <div class="hud-item"><span class="hud-label">Zetten</span><span class="hud-value" data-moves>0</span></div>

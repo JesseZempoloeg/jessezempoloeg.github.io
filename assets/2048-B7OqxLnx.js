@@ -1,4 +1,4 @@
-import{a as e,c as t,f as n,m as r,r as i}from"./index-CprVUJXG.js";var a=4,o=23.5,s=3.75;function c(c){c.innerHTML=`
+import{a as e,c as t,f as n,m as r,r as i}from"./index-D07Wxaxr.js";var a=4,o=23.5,s=3.75;function c(c){c.innerHTML=`
     <div class="hud">
       <div class="hud-group">
         <div class="hud-item"><span class="hud-label">Score</span><span class="hud-value" data-score>0</span></div>

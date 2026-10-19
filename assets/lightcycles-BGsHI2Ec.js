@@ -1,4 +1,4 @@
-import{A as e,I as t,N as n,R as r,Y as i,b as a,c as o,h as s,j as c,n as l,p as u,q as ee,r as d,t as te,v as ne,w as re}from"./three.module-a5-T9_Em.js";import{a as ie,c as ae,f as oe,o as f,s as se,t as ce}from"./index-CprVUJXG.js";var p=`lightcycles`,m=40,h=[[0,-1],[1,0],[0,1],[-1,0]],g=1.6,le=1.1,_=1600,v=e=>e-m/2+.5,y=e=>e-m/2+.5;function b(b){b.innerHTML=`
+import{A as e,I as t,N as n,R as r,Y as i,b as a,c as o,h as s,j as c,n as l,p as u,q as ee,r as d,t as te,v as ne,w as re}from"./three.module-a5-T9_Em.js";import{a as ie,c as ae,f as oe,o as f,s as se,t as ce}from"./index-D07Wxaxr.js";var p=`lightcycles`,m=40,h=[[0,-1],[1,0],[0,1],[-1,0]],g=1.6,le=1.1,_=1600,v=e=>e-m/2+.5,y=e=>e-m/2+.5;function b(b){b.innerHTML=`
     <div class="hud">
       <div class="hud-group">
         <div class="hud-item"><span class="hud-label">Verslagen</span><span class="hud-value" data-kills>0</span></div>
