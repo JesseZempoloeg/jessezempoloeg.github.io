@@ -1,4 +1,4 @@
-import{E as e,I as t,N as n,R as r,T as i,Y as ee,Z as te,a as ne,b as re,c as ie,i as ae,j as a,n as oe,p as se,q as ce,r as o,st as le,t as ue,v as de,z as fe}from"./three.module-a5-T9_Em.js";import{a as s,c as pe,d as me,f as he,o as ge,s as _e,t as c}from"./main-CB5B7x6h.js";var l=`pong3d`,u=5,d=4.6,ve=7.3,ye=-7.3,be=1.3,xe=.3,Se=19,Ce=7.2,we=.9;function f(f){f.innerHTML=`
+import{E as e,I as t,N as n,R as r,T as i,Y as ee,Z as te,a as ne,b as re,c as ie,i as ae,j as a,n as oe,p as se,q as ce,r as o,st as le,t as ue,v as de,z as fe}from"./three.module-a5-T9_Em.js";import{a as s,c as pe,d as me,f as he,o as ge,s as _e,t as c}from"./main-Co6izVZq.js";var l=`pong3d`,u=5,d=4.6,ve=7.3,ye=-7.3,be=1.3,xe=.3,Se=19,Ce=7.2,we=.9;function f(f){f.innerHTML=`
     <div class="hud">
       <div class="hud-group">
         <div class="hud-item"><span class="hud-label">Jij</span><span class="hud-value" data-you>0</span></div>

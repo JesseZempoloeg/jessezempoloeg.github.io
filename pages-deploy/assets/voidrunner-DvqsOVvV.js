@@ -1,4 +1,4 @@
-import{B as e,I as t,N as n,V as r,Y as i,a,b as ee,c as te,i as ne,j as o,n as re,q as s,r as ie,t as ae,u as oe,v as se,z as c}from"./three.module-a5-T9_Em.js";import{a as l,c as u,f as d,s as f,t as p}from"./main-CB5B7x6h.js";var m=`voidrunner`,h=4,g=-95,_=4.2,ce=1.8,v=[16727450,4062463,16769357,10185727];function y(y){y.innerHTML=`
+import{B as e,I as t,N as n,V as r,Y as i,a,b as ee,c as te,i as ne,j as o,n as re,q as s,r as ie,t as ae,u as oe,v as se,z as c}from"./three.module-a5-T9_Em.js";import{a as l,c as u,f as d,s as f,t as p}from"./main-Co6izVZq.js";var m=`voidrunner`,h=4,g=-95,_=4.2,ce=1.8,v=[16727450,4062463,16769357,10185727];function y(y){y.innerHTML=`
     <div class="hud">
       <div class="hud-group">
         <div class="hud-item"><span class="hud-label">Afstand</span><span class="hud-value" data-dist>0 m</span></div>
