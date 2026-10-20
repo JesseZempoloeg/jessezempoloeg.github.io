@@ -1,4 +1,4 @@
-import{I as e,N as t,Y as n,b as r,c as i,j as a,n as o,p as s,q as c,r as l,t as u,v as d}from"./three.module-a5-T9_Em.js";import{a as f,c as p,f as ee,s as m,t as h}from"./main-qtaq-8rI.js";var g=`neonstack`,_=.5,v=4.8,y=4.8,b=6.5,x=.07;function S(S){S.innerHTML=`
+import{I as e,N as t,Y as n,b as r,c as i,j as a,n as o,p as s,q as c,r as l,t as u,v as d}from"./three.module-a5-T9_Em.js";import{a as f,c as p,f as ee,s as m,t as h}from"./main-oP0jrE_T.js";var g=`neonstack`,_=.5,v=4.8,y=4.8,b=6.5,x=.07;function S(S){S.innerHTML=`
     <div class="hud">
       <div class="hud-group">
         <div class="hud-item"><span class="hud-label">Verdiepingen</span><span class="hud-value" data-score>0</span></div>

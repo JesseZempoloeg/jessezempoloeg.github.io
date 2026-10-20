@@ -1,4 +1,4 @@
-import{a as e,c as t,f as n,m as r,p as i,s as a,t as o}from"./main-qtaq-8rI.js";var s=35,c=30,l=70,u=12,d=[[-.06,.18],[.22,.18],[.22,.5],[.5,.5],[.5,.82],[.78,.82],[.78,.32],[1.06,.32]],f=[[.08,.36],[.36,.32],[.12,.68],[.36,.68],[.64,.36],[.66,.68],[.9,.55],[.9,.12]],p=[{range:.26,damage:11,cooldown:.55},{range:.3,damage:18,cooldown:.46},{range:.34,damage:29,cooldown:.36}];function m(m){m.innerHTML=`
+import{a as e,c as t,f as n,m as r,p as i,s as a,t as o}from"./main-oP0jrE_T.js";var s=35,c=30,l=70,u=12,d=[[-.06,.18],[.22,.18],[.22,.5],[.5,.5],[.5,.82],[.78,.82],[.78,.32],[1.06,.32]],f=[[.08,.36],[.36,.32],[.12,.68],[.36,.68],[.64,.36],[.66,.68],[.9,.55],[.9,.12]],p=[{range:.26,damage:11,cooldown:.55},{range:.3,damage:18,cooldown:.46},{range:.34,damage:29,cooldown:.36}];function m(m){m.innerHTML=`
     <div class="hud">
       <div class="hud-group">
         <div class="hud-item"><span class="hud-label">Golf</span><span class="hud-value" data-wave>0</span></div>

@@ -1,4 +1,4 @@
-import{B as e,C as t,I as n,M as r,N as i,V as a,Y as ee,Z as o,_ as s,a as c,c as te,f as l,j as u,n as ne,ot as re,q as ie,rt as ae,st as d,t as oe,x as se,z as ce}from"./three.module-a5-T9_Em.js";import{_ as le,a as f,c as ue,f as de,g as fe,h as pe,s as me,v as he}from"./main-qtaq-8rI.js";var p=`planet`,m=4,h=34,g=22,_=5,ge=new d(0,1,0),_e=[16742973,16727450,16769357],v=(e,t)=>e+Math.random()*(t-e),ve=e=>e[Math.floor(Math.random()*e.length)];function y(y){y.innerHTML=`
+import{B as e,C as t,I as n,M as r,N as i,V as a,Y as ee,Z as o,_ as s,a as c,c as te,f as l,j as u,n as ne,ot as re,q as ie,rt as ae,st as d,t as oe,x as se,z as ce}from"./three.module-a5-T9_Em.js";import{_ as le,a as f,c as ue,f as de,g as fe,h as pe,s as me,v as he}from"./main-oP0jrE_T.js";var p=`planet`,m=4,h=34,g=22,_=5,ge=new d(0,1,0),_e=[16742973,16727450,16769357],v=(e,t)=>e+Math.random()*(t-e),ve=e=>e[Math.floor(Math.random()*e.length)];function y(y){y.innerHTML=`
     <div class="hud">
       <div class="hud-group">
         <div class="hud-item"><span class="hud-label">Score</span><span class="hud-value" data-score>0</span></div>
