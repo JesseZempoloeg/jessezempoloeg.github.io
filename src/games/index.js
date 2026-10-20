@@ -265,4 +265,13 @@ export const games = [
     formatBest: (best) => formatClock(best / 100),
     load: () => import("./hockey.js"),
   },
+  {
+    id: "ur",
+    title: "Koninklijk Spel van Ur",
+    kicker: "BORD · DOBBELEN",
+    tagline: "Het oudste bordspel ter wereld: race met vijf stukken over het bord en stuur de computer terug naar huis.",
+    tint: "#f0c987",
+    glyph: "✵",
+    load: () => import("./ur.js"),
+  },
 ];
