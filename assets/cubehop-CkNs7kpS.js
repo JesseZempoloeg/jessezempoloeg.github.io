@@ -1,4 +1,4 @@
-import{I as e,N as t,Y as n,c as r,j as i,n as a,p as o,q as ee,r as s,t as te,v as ne}from"./three.module-a5-T9_Em.js";import{a as c,c as re,f as ie,o as l,s as ae,t as oe}from"./main-CB5B7x6h.js";var u=`cubehop`,d=1.9,f=2,p=1.6,m=.7,se=.26,ce=.12,h=14,g=6,_=e=>(.55+e*.045)%1;function v(v){v.innerHTML=`
+import{I as e,N as t,Y as n,c as r,j as i,n as a,p as o,q as ee,r as s,t as te,v as ne}from"./three.module-a5-T9_Em.js";import{a as c,c as re,f as ie,o as l,s as ae,t as oe}from"./main-Co6izVZq.js";var u=`cubehop`,d=1.9,f=2,p=1.6,m=.7,se=.26,ce=.12,h=14,g=6,_=e=>(.55+e*.045)%1;function v(v){v.innerHTML=`
     <div class="hud">
       <div class="hud-group">
         <div class="hud-item"><span class="hud-label">Stappen</span><span class="hud-value" data-steps>0</span></div>
