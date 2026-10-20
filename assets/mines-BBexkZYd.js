@@ -1,4 +1,4 @@
-import{a as e,c as t,f as n,m as r,n as i,p as a,s as o}from"./main-Co6izVZq.js";var s=10,c=10,l=14,u=340,d={1:`#8fd8ff`,2:`#8ef5b0`,3:`#ff9d6e`,4:`#c9a7ff`,5:`#ffe14d`,6:`#3dfcff`,7:`#ffb3e6`,8:`#f4efe6`};function f(f){f.innerHTML=`
+import{a as e,c as t,f as n,m as r,n as i,p as a,s as o}from"./main-qtaq-8rI.js";var s=10,c=10,l=14,u=340,d={1:`#8fd8ff`,2:`#8ef5b0`,3:`#ff9d6e`,4:`#c9a7ff`,5:`#ffe14d`,6:`#3dfcff`,7:`#ffb3e6`,8:`#f4efe6`};function f(f){f.innerHTML=`
     <div class="hud">
       <div class="hud-group">
         <div class="hud-item"><span class="hud-label">Tijd</span><span class="hud-value" data-time>0:00.00</span></div>

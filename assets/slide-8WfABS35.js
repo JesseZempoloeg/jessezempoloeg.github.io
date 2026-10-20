@@ -1,4 +1,4 @@
-import{a as e,c as t,f as n,m as r,p as i,r as a,s as o}from"./main-Co6izVZq.js";var s=4,c=16;function l(l){l.innerHTML=`
+import{a as e,c as t,f as n,m as r,p as i,r as a,s as o}from"./main-qtaq-8rI.js";var s=4,c=16;function l(l){l.innerHTML=`
     <div class="hud">
       <div class="hud-group">
         <div class="hud-item"><span class="hud-label">Zetten</span><span class="hud-value" data-moves>0</span></div>
