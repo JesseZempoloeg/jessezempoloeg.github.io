@@ -502,7 +502,12 @@ export function mount(root) {
         ctx.restore();
       }
 
-      const ready = turn === side && phase === "move" && !busy;
+      const ready =
+        side === "you" &&
+        turn === "you" &&
+        phase === "move" &&
+        !busy &&
+        pending.some((move) => move.from === -1);
       if (ready) {
         ctx.beginPath();
         ctx.arc(p.x, p.y, pod * 0.56 + Math.sin(now / 320) * 2, 0, Math.PI * 2);
